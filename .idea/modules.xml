@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/my-go-gin-example.iml" filepath="$PROJECT_DIR$/.idea/my-go-gin-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../w-go-gin-example/.idea/w-go-gin-example.iml" filepath="$PROJECT_DIR$/../w-go-gin-example/.idea/w-go-gin-example.iml" />
     </modules>
   </component>
 </project>
