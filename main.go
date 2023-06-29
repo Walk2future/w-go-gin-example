@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Walk2future/w-w-go-gin-example/pkg/setting"
-	"github.com/Walk2future/w-w-go-gin-example/routers"
+	"github.com/Walk2future/w-go-gin-example/pkg/setting"
+	"github.com/Walk2future/w-go-gin-example/routers"
 )
 
 func main() {

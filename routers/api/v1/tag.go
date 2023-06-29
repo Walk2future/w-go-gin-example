@@ -1,10 +1,10 @@
 package v1
 
 import (
-	"github.com/Walk2future/w-w-go-gin-example/models"
-	"github.com/Walk2future/w-w-go-gin-example/pkg/e"
-	"github.com/Walk2future/w-w-go-gin-example/pkg/setting"
-	"github.com/Walk2future/w-w-go-gin-example/pkg/util"
+	"github.com/Walk2future/w-go-gin-example/models"
+	"github.com/Walk2future/w-go-gin-example/pkg/e"
+	"github.com/Walk2future/w-go-gin-example/pkg/setting"
+	"github.com/Walk2future/w-go-gin-example/pkg/util"
 	"github.com/astaxie/beego/validation"
 	"github.com/gin-gonic/gin"
 	"github.com/unknwon/com"
